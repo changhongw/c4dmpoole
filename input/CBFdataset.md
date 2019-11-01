@@ -27,6 +27,14 @@ All the recordings and annotations in CBF-periDB can be downloaded at <a href="h
 	CBF-periDB and CBF-petsDB are being prepared for public release.
 </p>
 
+<h3>
+Demo
+</h3>
+
+<p>
+Some audio demos can found <a href="https://changhongw.github.io/publications/">here</a>. <br>
+</p>
+
 <p>
 For CBF-periDB, please cite the paper:
 </p>
